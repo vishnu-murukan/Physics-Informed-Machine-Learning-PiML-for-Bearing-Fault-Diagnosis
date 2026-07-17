@@ -128,3 +128,6 @@ python main_pipeline.py
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=2ecc71&height=120&section=footer" alt="Wave Footer" />
 </div>
+⭐ Don't forget to star the repositories if you find them useful!
+<div align="center">
+<sub>Built by <a href="https://github.com/vishnu-murukan">Vishnu Murukan</a></sub>
